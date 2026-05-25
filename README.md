@@ -1,3 +1,8 @@
-# Product Store
+# Product Store App
 
-🚀 Live Demo: [Click Here](https://your-project.onrender.com)
+Live Demo: https://your-project.onrender.com
+
+## Features
+- Add products
+- Update products
+- Delete product
