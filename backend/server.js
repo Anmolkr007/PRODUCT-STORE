@@ -5,7 +5,7 @@ import cors from "cors"
 import "dotenv/config"
 import productRoute from "./routes/productRoutes.js"
 import { sql } from "./config/db.js"
-import { aj } from "./lib/arkJet.js"
+import { aj } from "./lib/arkjet.js"
 import path from "path"
 import { fileURLToPath } from "url"
 const __filename = fileURLToPath(import.meta.url)
