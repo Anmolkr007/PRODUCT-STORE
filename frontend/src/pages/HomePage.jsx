@@ -1,6 +1,6 @@
 import React from 'react'
 import { useProductStore } from '../store/useProductStore.js'
-import Card from '../component/card.jsx'
+import Card from '../component/Card.jsx'
 import { useNavigate } from 'react-router-dom'
 
 const HomePage = () => {
